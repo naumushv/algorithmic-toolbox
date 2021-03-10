@@ -11,6 +11,7 @@ This repository contains all solutions for the course [Algorithmic Toolbox](http
 > Through Genome Assembly culminating project at the end of the Specialization, you'll learn how to assemble genomes from millions of short pieces and how algorithms fuel recent developments in personalized medicine.
 
 
+<img src="https://github.com/naumushv/algorithmic-toolbox/blob/main/logo.png" width="300" height="300">
 
 ### Week 1- Programming Challenges 
 
